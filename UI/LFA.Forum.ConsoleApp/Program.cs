@@ -11,7 +11,7 @@ namespace LFA.Forum.ConsoleApp
     {
         static void Main(string[] args)
         {
-            //hello
+            Console.Write(Logger.Log("Hey,This is log!!"));
         }
     }
 }

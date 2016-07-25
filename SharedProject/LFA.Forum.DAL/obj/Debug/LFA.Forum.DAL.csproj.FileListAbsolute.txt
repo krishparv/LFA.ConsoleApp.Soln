@@ -1,0 +1,7 @@
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\SharedProject\LFA.Forum.DAL\bin\Debug\LFA.Forum.DAL.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\SharedProject\LFA.Forum.DAL\bin\Debug\LFA.Forum.DAL.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\SharedProject\LFA.Forum.DAL\obj\Debug\LFA.Forum.DAL.csprojResolveAssemblyReference.cache
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\SharedProject\LFA.Forum.DAL\obj\Debug\LFA.Forum.DAL.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\SharedProject\LFA.Forum.DAL\obj\Debug\LFA.Forum.DAL.pdb
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\SharedProject\LFA.Forum.DAL\bin\Debug\LFA.Forum.Common.dll
+C:\Users\ani\Documents\Visual Studio 2013\Projects\LFAForumProject\SharedProject\LFA.Forum.DAL\bin\Debug\LFA.Forum.Common.pdb

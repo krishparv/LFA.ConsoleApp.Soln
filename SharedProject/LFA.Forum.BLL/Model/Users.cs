@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace LFA.Forum.BLL.Model
 {
-    class Users
+   public class Users
     {
        public string UserName{get; set;}
        public string HashPassword{get; set;}

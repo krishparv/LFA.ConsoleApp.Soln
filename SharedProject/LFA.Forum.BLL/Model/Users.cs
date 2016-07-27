@@ -13,7 +13,7 @@ namespace LFA.Forum.BLL.Model
        public string FirstName{get; set;}
        public string LastName{get; set;}
        public string Email {get; set;}
-       public int Created{get; set;}
+       public int Created {get; set;} 
        public DateTime LastActivity{get; set;}
        public bool IsModerator{get; set;}
        public int UserStatus{get; set;}

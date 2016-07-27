@@ -48,7 +48,7 @@ namespace LFA.Forum.DAL.Ado
 
         public SqlHelper()
         {
-            _strConn = @"Data Source=.\SQLEXPRESS;Initial Catalog=Forums;Persist Security Info=True;User ID=sa;Password=P@ssw0rd";
+            _strConn = @"Integrated Security=SSPI;Persist Security Info=False;Initial Catalog=test_lfaForum;Data Source=.\SQLEXPRESS2008";
 
             //SqlConnection ccc = new SqlConnection();
             _conn = new SqlConnection();
